@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neurosurgeon.noahstjohn.com/sitemap-index.xml
